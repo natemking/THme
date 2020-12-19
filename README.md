@@ -1,14 +1,19 @@
 # THme
 Project #01 
+
+![html badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![sass badge](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+![jquery badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+
 https://www.natemking.dev/THme/
-<hr />
+
 
 ## GreenLight Team
-<ul>
-  <li>Nate King</li>
-  <li>John Hauth</li>
-  <li>Dmitri So</li>
-</ul>
+  * Nate King
+  * John Hauth
+  * Dmitri So
+
 
 
 ## Table of Contents
