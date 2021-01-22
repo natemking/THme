@@ -10,9 +10,9 @@ https://www.natemking.dev/THme/
 
 
 ## GreenLight Team
-  * Nate King
-  * John Hauth
-  * Dmitri So
+  * [Nate King](https://github.com/natemking)
+  * [John Hauth](https://github.com/jkhauth)
+  * [Dmitri So](https://github.com/dmitriso)
 
 
 
